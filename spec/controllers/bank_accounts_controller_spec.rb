@@ -120,3 +120,5 @@ RSpec.describe BankAccountsController, type: :controller do
     end
   end
 end
+
+#if more actions are added, add further tests
